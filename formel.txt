@@ -8,3 +8,14 @@ Alkhol i gram: Volym i ml, Alkhol halt i procent sen * 0,8 för densiteten för 
 20/80*0.7 = 0.357 Promille
 
 Nu göra det här till kod
+
+
+Plan:
+
+Meny där man får välja vad man har druckit t.ex öl, vin, sprit
+
+Sen drop down bar där man får välja hur många och procent osv för varje
+
+Sen kalkylerar den ihop allting och frågar om vikt och kön
+
+Sen får man estimerade tid då man är nykter och hur länge sedan det var man drack allting. 
