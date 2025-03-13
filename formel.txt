@@ -1,0 +1,10 @@
+Promille = (Alkhol i gram) / Kroppsvikt i kg * Vattendel
+Vattendel = 0.7 för man 0.6 för kvinnor
+
+Alkhol i gram: Volym i ml, Alkhol halt i procent sen * 0,8 för densiteten för etanol. 1 liter ren etanol väger 0,8kg
+
+500ml storstark 5% ger. 500*0,05*0,8 = 20g Alkhol
+
+20/80*0.7 = 0.357 Promille
+
+Nu göra det här till kod
